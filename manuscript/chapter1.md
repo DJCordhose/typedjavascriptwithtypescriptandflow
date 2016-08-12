@@ -9,4 +9,4 @@ Flow is a static type checker that has been developed and used by Facebook to fi
 JavaScript and more specifically React code.
 
 TypeScript is an extension to JavaScript that compiles back to ES5 or ES6.
-It is actively developed by Microsoft and used as primary language for Google’s Angular 2 framework.
+It is actively developed by Microsoft and used as primary language for Google's Angular 2 framework.
